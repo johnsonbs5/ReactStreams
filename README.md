@@ -1,5 +1,5 @@
 # MovieApp React
-Movie Streaming app made with React, MaterializeCss , Firebase !
+Who doesn't love movies? This application uses React, MaterializeCss , Firebase to deliver the DC cinema to you. 
 
 # Screenshot
 ## Homepage
