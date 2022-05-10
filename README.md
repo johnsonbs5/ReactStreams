@@ -5,8 +5,8 @@ Who doesn't love movies? This application uses React, MaterializeCss , Firebase 
 ## Homepage
 ![Capture](https://user-images.githubusercontent.com/37141368/84060810-7474d580-a9da-11ea-813b-670034a81692.PNG)
 
-## Link
-https://dcverse.netlify.app/
+<!-- ## Link -->
+<!-- https://dcverse.netlify.app/ -->
 
 
 
