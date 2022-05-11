@@ -1,7 +1,7 @@
 import firebase from 'firebase/app'
 import 'firebase/firestore'
 import 'firebase/auth'
-
+// Need to change API ket below 
 var firebaseConfig = {
     apiKey: "AIzaSyC0F8CqOwAHm7dHC5lqxf50tKnJQTaViOo",
     authDomain: "dcverse-c639f.firebaseapp.com",
