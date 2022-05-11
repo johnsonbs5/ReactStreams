@@ -35,7 +35,7 @@ class SignIn extends Component {
                 </nav>
                 <div className="container center">
                     <form className="">
-                        <b> <h4 className="grey-text text-darken-4 center-align ">Welcome to DCverse</h4></b>
+                        <b> <h4 className="grey-text text-darken-4 center-align ">Welcome to React Streams</h4></b>
                         <h6 className="grey-text text-darken-4 left-align">Please sign in to continue</h6>
                         <div className="input-field">
                             <label htmlFor="email">Email</label>

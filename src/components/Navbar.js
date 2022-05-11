@@ -20,7 +20,7 @@ class Navbar extends Component {
                         </a>
                         <ul class="right hide-on-med-and-down ">
                             <li><Link to="/" className=" amber-text darken-3-text">Home</Link></li>
-                            <li><Link to="/Favourites" className=" amber-text darken-3-text">Favourites</Link></li>
+                            <li><Link to="/Favourites" className=" amber-text darken-3-text">Favorite</Link></li>
                             <li><Link to="/Movierequest" className=" amber-text darken-3-text">Request Movies</Link></li>
                             <li><div class="container">
                                 <a onClick={() => fire.auth().signOut()} class="btn-floating yellow darken-3 pulse "><i class="material-icons">exit_to_app</i></a>
@@ -35,12 +35,12 @@ class Navbar extends Component {
                     <li>
                         <a href="#" class="grey darken-4">
                             <i class="material-icons amber-text darken-3-text">bubble_chart</i>
-                            <span class="white-text">DCVerse</span>
+                            <span class="white-text">React Streams</span>
                         </a>
                     </li>
 
                     <li><Link class="sidenav-close" to="/" className=" amber-text darken-3-text"><i class="material-icons amber-text">home</i>Home</Link></li>
-                    <li><Link class="sidenav-close" to="/Favourites" className=" amber-text darken-3-text"><i class="material-icons amber-text">favorite_border</i>Favourites</Link></li>
+                    <li><Link class="sidenav-close" to="/Favourites" className=" amber-text darken-3-text"><i class="material-icons amber-text">favorite_border</i>Favorites</Link></li>
                     <li><Link class="sidenav-close" to="/Movierequest" className=" amber-text darken-3-text"><i class="material-icons amber-text">router</i>Request Movies</Link></li>
                     <li><Link className=" amber-text darken-3-text" onClick={() => fire.auth().signOut()}><i class="material-icons amber-text">exit_to_app</i>Logout</Link></li>
                 </ul>
