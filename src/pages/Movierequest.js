@@ -29,7 +29,7 @@ class Movierequest extends Component {
         this.notify()
     }
 
-    notify = () => toast('👨‍💻 Request Has been Sended sucessfully!', {
+    notify = () => toast('👨‍💻 Request Has Been Sent Sucessfully!', {
         position: "top-right",
         autoClose: 5000,
         hideProgressBar: false,
