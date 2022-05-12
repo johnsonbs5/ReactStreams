@@ -14,7 +14,7 @@ class Navbar extends Component {
             <div>
                 <nav class="nav-wrapper grey darken-4">
                     <div class="container">
-                        <a class="brand-logo white-text"><i className=" large material-icons amber-text darken-3-text">bubble_chart</i>React Streams</a>
+                        <a class="brand-logo white-text"><i className=" large material-icons amber-text darken-3-text">React Streams</i>React Streams</a>
                         <a class="sidenav-trigger" data-target="mobile-links">
                             <i class="material-icons">menu</i>
                         </a>
