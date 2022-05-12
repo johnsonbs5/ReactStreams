@@ -34,7 +34,7 @@ class Navbar extends Component {
                 }}>
                     <li>
                         <a href="#" class="grey darken-4">
-                            <i class="material-icons amber-text darken-3-text">React Streams</i>
+                            <i class="material-icons amber-text darken-3-text">React Streamssss</i>
                             <span class="white-text">React Streams</span>
                         </a>
                     </li>
