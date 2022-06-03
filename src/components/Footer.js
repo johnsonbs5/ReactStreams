@@ -38,7 +38,7 @@ const Footer = () => {
                                 <a href="https://www.facebook.com/" class="grey-text text-lighten-3"><i class="fab fa-facebook"></i> Facebook</a>
                             </li>
                             <li>
-                                <a href="https://www.linkedin.com/in/yash-raut-55330715a/" class="grey-text text-lighten-3"><i class="fab fa-linkedin"></i> Linked-In</a>
+                                <a href="https://www.linkedin.com/in/bishop-johnson-80166813a/" class="grey-text text-lighten-3"><i class="fab fa-linkedin"></i> LinkedIn</a>
                             </li>
                         </ul>
                     </div>
